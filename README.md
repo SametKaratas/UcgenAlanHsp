@@ -1,0 +1,1 @@
+Üç kenar uzunluğunu kullanıcıdan alan ve üçgenin alanını hesaplayan program.
